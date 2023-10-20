@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guitar Classes</string>
+    <string name="title_home">Home</string>
+    <string name="title_classes">Classes</string>
+    <string name="title_students">Students</string>
+    <string name="title_about">About</string>
+    <string name="subject_prompt" translatable="false">subject_prompt</string>
+    <string name="name">Nome</string>
+</resources>

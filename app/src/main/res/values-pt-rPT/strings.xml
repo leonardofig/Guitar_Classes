@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guitar Classes</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_classes">Turmas</string>
+    <string name="title_students">Estudantes</string>
+    <string name="title_about">Sobre</string>
+    <string name="name">Nome</string>
+</resources>
